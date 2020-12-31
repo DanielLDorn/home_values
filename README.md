@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### original launch setup -> https://blog.miguelgrinberg.com/post/how-to-create-a-react--flask-project
+### deploy -> https://blog.miguelgrinberg.com/post/how-to-deploy-a-react--flask-project
+
 
 ## Available Scripts
 
